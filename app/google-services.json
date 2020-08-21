@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1092861052064",
+    "firebase_url": "https://ip-geolocation-86913.firebaseio.com",
+    "project_id": "ip-geolocation-86913",
+    "storage_bucket": "ip-geolocation-86913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092861052064:android:e77e9493b25e54c276f5c5",
+        "android_client_info": {
+          "package_name": "com.csie.ipgeolocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092861052064-kha38gi7slahv88qrmugpru0vmmenl20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.csie.ipgeolocation",
+            "certificate_hash": "058604fcbb2ad89717302e1b3b3e0ff8b8df872a"
+          }
+        },
+        {
+          "client_id": "1092861052064-g5oj370mrj548skrgmpbo3qig0eh5bnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "your-secret-key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092861052064-g5oj370mrj548skrgmpbo3qig0eh5bnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

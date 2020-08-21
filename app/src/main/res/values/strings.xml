@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">IP Geolocation</string>
+    <string name="button_feedback">Feedback</string>
+    <string name="tv_Destination">"Sending to "</string>
+    <string name="et_Subject" />
+    <string name="eth_Subject">Subject</string>
+    <string name="eth_Message">Message</string>
+    <string name="tv_Rating">Your rating</string>
+    <string name="button_Submit">Submit</string>
+    <string name="tv_IPAddress">IP Address</string>
+    <string name="eth_IP">e.g. 8.8.8.8</string>
+    <string name="button_Lookup">Lookup</string>
+    <string name="tv_IP">IP:</string>
+    <string name="tv_Type">Type:</string>
+    <string name="continent">Continent</string>
+    <string name="country">Country</string>
+    <string name="country_code">Country code</string>
+    <string name="region">Region</string>
+    <string name="city">City</string>
+    <string name="zip_code">Zip code</string>
+    <string name="button_History">History</string>
+    <string name="blank_fragment">blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="infoicon">InfoIcon</string>
+    <string name="about_text">IP-based Geolocation is the mapping of an IP address or MAC address to the real-world geographic location of an Internet-connected computing or a mobile device. Geolocation involves in mapping IP address to the country, region (city), latitude/longitude and other useful things.</string>
+    <string name="accuracy_text">This application is using the www.ipstack.com API and since the database is integrated with a series of large ISPs who constantly provide information about new and existing IP ranges it offers a high level of accuracy.</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="about">About</string>
+    <string name="et_Username">Username</string>
+    <string name="et_Password">Password</string>
+    <string name="btn_Login">Login</string>
+    <string name="btn_Register">Register</string>
+    <string name="tv_UsersList">ID | USERNAME | PASSWORD</string>
+    <string name="room">Room</string>
+    <string name="firebase">Firebase</string>
+    <string name="total_no_of_users">Total no. of users:</string>
+    <string name="statistics">Statistics</string>
+
+</resources>
